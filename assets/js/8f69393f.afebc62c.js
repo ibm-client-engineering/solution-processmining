@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[426],{6739:s=>{s.exports=JSON.parse('{"label":"log","permalink":"/solution-processmining/blog/tags/log","allTagsPath":"/solution-processmining/blog/tags","count":1}')}}]);

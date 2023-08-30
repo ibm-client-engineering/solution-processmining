@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[687],{895:s=>{s.exports=JSON.parse('[{"label":"log","permalink":"/solution-processmining/blog/tags/log","count":1},{"label":"sprint","permalink":"/solution-processmining/blog/tags/sprint","count":1}]')}}]);
