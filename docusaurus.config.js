@@ -130,7 +130,7 @@ async function createconfig() {
           },
         },
         navbar: {
-          title: '| IBM Process Mining on Openshift',
+          title: '| IBM CP4BA Process Mining on Openshift',
           logo: {
             alt: 'My Site Logo',
             src: 'img/logo.svg',
